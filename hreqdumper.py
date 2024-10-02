@@ -85,7 +85,7 @@ def scrape_thread_data(json_file_path, output_file):
     print(f"Scraping completed. Data saved to {output_file}")
 
 #provide the path to the URLs JSON and the output JSON file
-json_file_path = "C:/Users/Meriel/anaconda3/envs/dlatk_env/Scripts/ptg_threads_output/ptg_threads.json"
+json_file_path = "C:/Users/your/path/goes/here/ptg_threads.json"
 output_json_file = "./scraped_thread_data.json"
 
 #kickoff the scrape
